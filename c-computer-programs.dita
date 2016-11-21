@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_ymc_rlc_1y">
-    <title></title>
-    <shortdesc/>
-    <taskbody>
-        <context>
-            <p></p>
-        </context>
-        <steps>
-            <step>
-                <cmd></cmd>
-            </step>
-        </steps>
-    </taskbody>
-</task>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c-computer-programs.dita">
+ <title>Adobe Software on Mac Desktops</title>
+ <shortdesc>The Mac Desktops have several up-to-date Adobe Creative Cloud Software orograms installed for your convenience. You can login to the Creative Cloud using the same login username and password that you did to get into the computer.  </shortdesc>
+ <conbody>
+  <p>The Adobe Creative Cloud gives you access to:</p>
+  <ul>
+   <li>Adobe InDesign: a software program that allows mixed media designing</li>
+   <li>Adobe Photoshop: a photo editing software program</li>
+   <li>Adobe Illustrator: a vector drawing tool that enables you to make innovative designs </li>
+   <li>Adobe Stock: a collection of stock photos that you can download and save to use for your own content</li>
+  </ul>
+  <p>
+   <fig id="fig_plt_tqd_1y">
+    <title>Adobe Creative Cloud</title>
+    <image href="i-adobe.png" id="i-adobe.png"/>
+   </fig>
+  </p>
+ </conbody>
+ 
+</concept>

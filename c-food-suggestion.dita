@@ -1,9 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_cgn_3lc_1y">
- <title></title>
- <shortdesc></shortdesc>
+<concept id="c-food-suggestion.dita">
+ <title>Where to eat near Shanks Hall?</title>
+ <shortdesc>If you would like to cater for your event in Shanks or grab a bite to eat during a break, there is no shortage of great restuarants nearby.</shortdesc>
  <conbody>
-  <p></p>
+  <p>If you walk out of Shanks Hall on the backside that is next to the Moss Arts Center, you'll be on Turner Street on which you can find the following restaurants: </p>
+  <ul>
+   <li>Zaxby's Chicken</li>
+   <li>Starbucks Coffee</li>
+   <li>Five Guys Burgers and Hot Dogs</li>
+   <li>Next Door Bake Shop</li>
+   <li>1000 Degrees Pizza</li>
+   <li>Buffalo Wild Wings</li>
+  </ul>
+  <p>If you walk out of Shanks Hall the other way and continue down the path towards McBryde Hall, you'll see Lavery Hall on your right. This is home to the Turner Dining Hall, only open weekdays, where you can find:</p>
+  <ul>
+   <li>Qdoba Mexican Grill</li>
+   <li>Bruegger's Bagels</li>
+   <li>Atomic Pizza</li>
+   <li>Jamba Juice</li>
+   <li>1842 Fire Grill</li>
+   <li>Peet's Coffee</li>
+   <li>Dolcezza Crepe Station</li>
+   <li>Origami Sushi Bar</li>
+   <li>Soup Garden and Salad</li>
+  </ul>
+  <p>
+   <fig id="fig_bxm_2pd_1y">
+    <title>Turner Place at Lavery Hall</title>
+    <image href="i-turners.jpg" id="i-turners.jpg"/>
+   </fig>
+  </p>
  </conbody>
 </concept>

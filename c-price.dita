@@ -1,9 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_ppc_gmc_1y">
- <title></title>
- <shortdesc></shortdesc>
+<concept id="c-price.dita">
+ <title>AirClassroom Prices for Shanks 360</title>
+ <shortdesc>We strive to give you the fairest price for our space. Our prices are non-negotiable, but we have taken every measure to make sure that they are the fairest deal you'll get.</shortdesc>
  <conbody>
-  <p></p>
+  <p>Below you'll find the detailed price breakdown for our space, so that you can see which package best fits your needs.</p>
+  <p>
+   <table frame="all" rowsep="1" colsep="1" id="table_sjd_pvd_1y">
+    <title>Shanks Room 360 Price Breakdown</title>
+    <tgroup cols="2">
+     <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+     <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+     <thead>
+      <row>
+       <entry>Package</entry>
+       <entry>Pricing</entry>
+      </row>
+     </thead>
+     <tbody>
+      <row>
+       <entry><i>Platinum</i> Room with all inclusive Computer, Internet and Adobe Creative
+        Cloud</entry>
+       <entry>$30/hour</entry>
+      </row>
+      <row>
+       <entry><i>Gold</i> Room without Computer Access</entry>
+       <entry>$10/hour</entry>
+      </row>
+      <row>
+       <entry><i>Platinum</i> Room with all inclusive Computer, Internet and Adobe Creative Cloud
+         <b>(Student discount)</b></entry>
+       <entry>$20/hour</entry>
+      </row>
+      <row>
+       <entry><i>Gold</i> Room without Computer Access <b>(Student discount)</b></entry>
+       <entry>$5/hour</entry>
+      </row>
+      <row>
+       <entry><i>Platinum</i> Room with all inclusive Computer, Internet and Adobe Creative Cloud
+         <b>(VT Student discount)</b></entry>
+       <entry>$10/hour</entry>
+      </row>
+      <row>
+       <entry><i>Gold</i> Room without Computer Access <b>(VT Student discount)</b></entry>
+       <entry>Free</entry>
+      </row>
+     </tbody>
+    </tgroup>
+   </table>
+  </p>
  </conbody>
 </concept>

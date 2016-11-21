@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_xkn_1mc_1y">
-    <title></title>
-    <shortdesc/>
+<task id="t-two-factor.dita">
+    <title>How to Use Two-Factor Authentication</title>
+    <shortdesc>Two-Factor Authentication is our way of making sure that your personal content is protected. We believe it is our first priority to make sure your property is safe.</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>Two-Factor Authentication is conducted by a free application called DuoMobile. You will need to download this application on your phone before you can access the Virginia Tech Network.</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Once you have downloaded DuoMobile, you will be given the option to be sent a 6-digit pin number via email or text message. This pin number is your Virginia Tech Key that puts you in the system.  </cmd>
             </step>
+            <step>
+                <cmd>Once you've received the pin number, open up your DuoMobile application and copy/paste the pin number to your keychain.</cmd>
+            </step>
+            <step>
+                <cmd>Open a browser up on the Mac Desktop (or your laptop or phone) and when the Two-Factor Authentication window pops up, hit "send me a push".</cmd>
+            </step>
+            <step>
+                <cmd>Then open your email or phone, whichever notification option you selected, and click "accept".</cmd>
+            </step>
+           <step>
+               <cmd>The system may take a few seconds to process, and then you should be allowed onto the WiFi.</cmd>
+           </step>
         </steps>
+        <postreq>I<b>f you are having trouble using DuoMobile, call the 24/7 tech support number:
+                143-666-4354</b></postreq>
     </taskbody>
 </task>

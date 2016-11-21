@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_drp_xlc_1y">
-    <title></title>
-    <shortdesc/>
+<task id="t-internet.dita">
+    <title>How to use the Internet </title>
+    <shortdesc>Complementary WiFi is something we are very proud to offer for our guests, in order to access the WiFi, first set up a profile on the DuoMobile application so that you can do Two-Facter Authentication. See the Two-Factor Authentication Tab if you are unsure of how to do this.  </shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>Be sure that you have your Guest login information that you use to login to the computer and Adobe Creative Cloud handy. This will be the same login information that you use to access the WiFi.</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Go to WiFi Network Preferences and click "eduroam".</cmd>
+            </step>
+            <step>
+                <cmd>Enter your username and six-digit password that were provided to you by AirClassroom.</cmd>
+            </step>
+            <step>
+                <cmd>Click "conenct" when all 5 bars are black, you have connected fully.</cmd>
+            </step>
+            <step>
+                <cmd>If the "eduroam" network is unavailable, click "VT-Wireless".</cmd>
+            </step>
+            <step>
+                <cmd>Enter the same username and six-digit password for this network and click "connect".</cmd>
             </step>
         </steps>
+        <postreq><b>If you are unable to connect to either network, call the 24/7 tech support
+                number: 143-666-4354</b></postreq>
     </taskbody>
 </task>

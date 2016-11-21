@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_dpc_skc_1y">
-    <title></title>
-    <shortdesc/>
+<task id="t-room-rearrange">
+    <title>How to Rearrange the Classroom</title>
+   <shortdesc>The room can be rearranged to better suit your needs if you prefer a meeting style to the lecture/workshop set up.</shortdesc>
     <taskbody>
+        <prereq> Make sure the Mac desktop computers are unplugged before you begin moving the tables.</prereq>
         <context>
-            <p></p>
+            <p>When you come in to the room, the default set up is rows of computers side by side on their desks. This set up is good for a lecture or workshop environment because each individual has their own station.</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Move unplugged computers off the desks and gently place them on the floor away from the center of the room.</cmd>
+            </step>
+            <step>
+                <cmd>Pull the chairs away from the desks and line them up in front of the computers.</cmd>
+            </step>
+            <step>
+                <cmd>Push the desks into a large rectangle, or smaller squares. You can do this by attaching four desks together to make a small square, or by making 4 separate rows with all of the desks. </cmd>
+            </step>
+            <step>
+                <cmd>Now you can place the computers back on the desks as or if needed, and plug them into the floor outlets. </cmd>
+            </step>
+            <step>
+                <cmd>Place whatever computers that are not being used gently in the cabinet at the back of the room.</cmd>
             </step>
         </steps>
+        <postreq><b>Remember that all AirClassroom guests sign a waiver saying that they are
+                responsible for any damage caused to the classroom and its contents, therefore be
+                careful maneuvering the equipment.</b><p/> If you feel that you need assistance
+            rearranging, call the maintenance number 765-555-3464.</postreq>
     </taskbody>
 </task>

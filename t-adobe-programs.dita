@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_yww_vlc_1y">
-    <title></title>
-    <shortdesc/>
+<task id="adobe-programs.dita">
+    <title>How to Save Files from the Adobe Creative Cloud</title>
+    <shortdesc>The Adobe Creative Cloud has a lot of excellent software available to use. If you are unsure of how to use a program, be sure to visit the Adobe Creative Cloud website for their helpful tutorials. </shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>This manual will show you how to login to the system and save your work.</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Login to the Creative Cloud using the same login information that you did to get on the computer.</cmd>
+            </step>
+            <step>
+                <cmd>Open whichever applications you'd like to use and conduct whatever designing you need on the application.</cmd>
+            </step>
+            <step>
+                <cmd>When you have finished or made sufficient progress on your project, upload it
+                    to an online drive <i>or</i> a flash drive <i>and</i> save it to your
+                    Cloud.</cmd>
+            </step>
+            <step>
+                <cmd>Save a file to your Cloud by clicking "file" and then "save as Cloud file"</cmd>
             </step>
         </steps>
+        <postreq>Remember that any file left on the desktop will be <i>deleted</i>. <b>It is best to
+                save your files both in the Cloud and on your own drive. </b><p/>Even if you are not
+            on a Virginia Tech computer, you can access your Guest Creative Cloud account for an
+            extra week from the last day of your AirClassroom Lease.</postreq>
     </taskbody>
 </task>

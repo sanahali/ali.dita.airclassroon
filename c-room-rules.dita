@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_ftf_dmc_1y">
- <title></title>
- <shortdesc></shortdesc>
+<concept id="c-room-rules.dita">
+ <title>Shanks 360 Room Rules</title>
+ <shortdesc>When you signed your lease for AirClassroom, you were given a list of rules for this room and you signed saying you would abide by them. For your conveneince we have attached the list here so you are able to reference it. We hope this ensures a comfortable and clean stay for you.</shortdesc>
  <conbody>
-  <p></p>
+<ul>
+   <li>Turn the lights off when you exit the room.</li>
+   <li>Take the trash out with you when you leave, and throw it in the dumpster on the side of the
+    building.</li>
+   <li>Don't eat or drink in the room. The hallway right outside has ample seating for a lunch or
+    coffee break.</li>
+   <li>Rearrange the room back to the way you received it after you have finished your event.</li>
+   <li>The person who signs the lease is liable for anything their guests break or damage in the
+    room.</li>
+   <li>No smoking inside the building <i>or</i> within 20 feet of the building.<p>
+     <fig id="fig_xkm_x5d_1y">
+      <title>Classroom Set up</title>
+      <image href="i-lab.jpg" id="i-lab.jpg"/>
+     </fig>
+    </p></li>
+  </ul>
  </conbody>
 </concept>
