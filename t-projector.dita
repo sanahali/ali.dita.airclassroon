@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_wvv_zf2_zx">
+<task id="t-projector">
     <title>How to use the projector </title>
-    <shortdesc>The projector is connected to the desktop computer that is nearest the white board.</shortdesc>
+    <shortdesc>The projector is connected to the Mac desktop computer that is nearest the white board.</shortdesc>
     <taskbody>
-        <context>
-            <p>To use the projector, you'll need to power on the computer that </p>
-        </context>
+        <prereq> Before starting your presentation on the projector, be sure to locate the remote that controls the projector. (see figure below) </prereq>
+        <context>To use the projector, you'll need to power on the Mac that is on the stand alone desk by the board. If you are unsure of how to log into the computer, refer to the computer tab for step-by-step information.</context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Turn the projector on by clicking the "start" button on the remote.</cmd>
+            </step>
+            <step>
+                <cmd>Login to the computer and then immediately hit "freeze" on the remote. This will freeze the screen shown on the board while you open your presentation. This way you can protect any private or personal information that you wouldn't want to show, for example, your email inbox.</cmd>
+            </step>
+            <step>
+                <cmd>To unfreeze the screen shown on the board, hit the "freeze" button again.</cmd>
+            </step>
+            <step>
+                <cmd>Control the slides in your presentation by using the left and right arrows on the remote. You can also adjust the volume of your presentation with the up and down arrows on the remote.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off the projector when you are finished with your presentation by clicking the "start" button again.</cmd>
             </step>
         </steps>
+        <postreq>Make sure the projector is turned off when you are finished using it, if it is on
+            for longer than a few hours, the bulb can overheat and damage the product.<p>
+                <fig id="fig_ndb_ghd_1y">
+                    <title>Projector</title>
+                    <image href="i-projector.jpg" id="i-projector.jpg"/>
+                </fig>
+            </p><p>
+                <fig id="fig_txy_hhd_1y">
+                    <title>Projector Remote</title>
+                    <image href="i-remote.jpeg" id="i-remote.jpg"/>
+                </fig>
+            </p></postreq>
+       
     </taskbody>
 </task>

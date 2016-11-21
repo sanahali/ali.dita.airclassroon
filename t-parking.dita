@@ -1,16 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_n15_4kc_1y">
-    <title></title>
-    <shortdesc/>
-    <taskbody>
-        <context>
-            <p></p>
-        </context>
+<task id="t-parking.dita">
+    <title>Where to park nearest Shanks Hall</title>
+   <shortdesc>There is ample parking all over the Virginia Tech campus, but below are the best spots to ensure a clear and easy walk to Shanks Hall.</shortdesc> 
+      <taskbody>
+      <prereq>Make sure you have reached the Virginia Tech campus before following these directions. Refer to the campus map below if you need to.</prereq>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Head under Torgerson Bridge down the Alumni Mall towards N. Main street.</cmd>
+            </step>
+            <step>
+                <cmd>Parallel park in the parking spaces that are on this road.</cmd>
+            </step>
+            <step>
+                <cmd>If you are able to find a spot here, you can turn facing away from Squires Student Center and walk up alongside the Moss Arts Center. You'll find Shanks Hall on the left side of the Center.</cmd>
+            </step>
+              <step>
+             <cmd>If you aren't able to find parking on Alumni Mall, loop back so you are driving on the Mall towards the Drillfield, if you loop around the Drillfield, you'll see that there are a number of parking spaces there, if you find one, park. </cmd>
+         </step>
+            <step>
+                <cmd>From the Drillfield, you can walk to Shanks Hall by walking past Major Williams Hall, and into the quad with a statue of a walking man.</cmd>
+            </step>
+            <step>
+                <cmd>Finally, if you are unable to find parking in either of these places, turn off of Drillfield Drive onto Stanger Street, and park in the Upper Stanger Lot.</cmd>
+            </step>
+            <step>
+                <cmd>You can walk from this lot to Shanks Hall by turning onto Turner Street, and following the road until you see Zaxby's Chicken. Shanks Hall will be on the opposite side of the street.</cmd>
             </step>
         </steps>
-    </taskbody>
+          <postreq>If you find these parking recommendations do not suffice, download the
+            application "Parking Panda" and search for open parking spaces in the area, and then
+            locate Shanks Hall with walking directions on your preferred GPS.<p>
+                <fig id="fig_gq3_ckd_1y">
+                    <title>Virginia Tech Parking Map</title>
+                    <image href="i-map.jpg" id="i-map.jpg"/>
+                </fig>
+            </p></postreq>
+      </taskbody>
+  
 </task>

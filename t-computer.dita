@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t-computer.dita">
-    <title></title>
-    <shortdesc/>
+    <title>How to use the Mac Desktop Computer</title>
+    <shortdesc>The Mac Desktops are top of the line computers that are up to date with the latest Apple technology.  </shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <prereq>In order to login to the Mac Desktop you'll need your username and 6-digit password that were sent to you by AirClassroom when you booked the space. Look for an email entitled "AirClassroom Shanks 360 Guest".</prereq>
+  
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Power on computer by holding down the "home" button for 5 seconds.</cmd>
+            </step>
+            <step>
+                <cmd>Enter your username and password, which were sent to you by AirClassroom.</cmd>
+            </step>
+            <step>
+                <cmd>Follow the steps for Two-Factor Authentication to access the WiFi (see Two-Factor Authentication tab for how to use this feature).</cmd>
             </step>
         </steps>
+<postreq><b> Be sure to save all of your information online via Google Drive or on a flash drive to
+                ensure you do not lost any information. The computers are reset at the end of each
+                day.</b>
+            <p><image href="i-mac.png" id="i-mac.png">
+                    <alt>Mac Desktop</alt>
+                </image></p></postreq>
     </taskbody>
+    
 </task>
