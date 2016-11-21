@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map/>
+<map>
+   <appContext helpID="c-introduction-professional.dita"
+               path="c-introduction-professional.html"/>
+   <appContext helpID="c-price.dita" path="c-price.html"/>
+   <appContext helpID="c-room-rules.dita" path="c-room-rules.html"/>
+   <appContext helpID="t-room-rearrange" path="t-room-rearrange.html"/>
+   <appContext helpID="t-projector" path="t-projector.html"/>
+   <appContext helpID="t-cleaning.dita" path="t-cleaning.html"/>
+   <appContext helpID="concept_dk5_y4c_1y" path="c-works-cited.html"/>
+</map>

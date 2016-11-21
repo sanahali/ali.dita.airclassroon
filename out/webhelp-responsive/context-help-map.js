@@ -1,1 +1,1 @@
-var helpContexts = []
+var helpContexts = [{"appname":"", "appid":"c-introduction-professional.dita", "path":"c-introduction-professional.html"},{"appname":"", "appid":"c-price.dita", "path":"c-price.html"},{"appname":"", "appid":"c-room-rules.dita", "path":"c-room-rules.html"},{"appname":"", "appid":"t-room-rearrange", "path":"t-room-rearrange.html"},{"appname":"", "appid":"t-projector", "path":"t-projector.html"},{"appname":"", "appid":"t-cleaning.dita", "path":"t-cleaning.html"},{"appname":"", "appid":"concept_dk5_y4c_1y", "path":"c-works-cited.html"}]
