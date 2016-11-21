@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_yp2_tmc_1y">
- <title></title>
- <shortdesc></shortdesc>
+<concept id="c-introduction-professional.dita">
+ <title>Welcome to Shanks 360</title>
+ <shortdesc>In this room you'll find everything you need to conduct a productive and creative workshop or conference. </shortdesc>
  <conbody>
-  <p></p>
+  <p>At Virginia Tech, we always offer our guests the best quality and newest technology that we
+   have. Below you will find a list of all the amenities available for you to use in this room. </p>
+  <ul>
+   <li>24 Mac Desktop Computers</li>
+   <li>24 Swivel chairs</li>
+   <li>24 desks</li>
+   <li>Overhead projector with remote</li>
+   <li>20 outlets (15 in the floor and 5 on the wall)</li>
+   <li>Adobe Creative Cloud</li>
+  </ul>
+  <p/>
+  <p>Click through the links and you'll find more in depth information about the room and your
+   lease.</p>
  </conbody>
 </concept>

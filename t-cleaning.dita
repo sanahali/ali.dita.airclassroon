@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_lbp_jmc_1y">
-    <title></title>
-    <shortdesc/>
+<task id="t-cleaning.dita">
+    <title>How to Clean Up Shanks 360</title>
+   <shortdesc>We are committed to keeping our spaces clean for our guests. Pay it forward and make sure that you are leaving the room as clean as you found it.</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>Sometimes when you are picking up a room it is easy to overlook the smaller details. We have detailed a step-by-step process for a final check on the room before you head out:</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Walk through the rows of desks with the trash can in hand and throw out any trash you see.</cmd>
+            </step>
+            <step>
+                <cmd>Do a similar walk through again, now looking at the floor to ensure there are no chargers that were left plugged in, or trash on the floor.</cmd>
+            </step>
+            <step>
+                <cmd>Take cleaning wipes from the cabinet and wipe over the desk surfaces and the desktop monitors. As you do this, make sure the monitors are turned off. </cmd>
+            </step>
+            <step>
+                <cmd>Erase any remaining writing/drawing from the white board.</cmd>
+            </step>
+            <step>
+                <cmd>Take the trash bag out of the bin and carry it out with you to the dumpster.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off all lights before closing the door behind you.</cmd>
             </step>
         </steps>
+        <postreq>Come back again!<p/></postreq>
     </taskbody>
 </task>

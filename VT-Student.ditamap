@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Virginia Tech Student's AirClassroom Guide to Shanks 360 </title>
+ <topicref href="c-introduction-professional.dita"/>
+ <topicref href="c-price.dita"/>
+ <topicref href="c-room-rules.dita"/>
+ <topicref href="t-room-rearrange.dita"/>
+ <topicref href="t-projector.dita"/>
+ <topicref href="t-cleaning.dita"/>
+ <topicref href="c-works-cited.dita"/>
+</map>

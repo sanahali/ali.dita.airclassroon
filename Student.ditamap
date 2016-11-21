@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Visiting Student's AirClassroom Guide to Shanks 360 </title>
+ <topicref href="c-introduction-student.dita"/>
+ <topicref href="c-price.dita"/>
+ <topicref href="t-parking.dita"/>
+ <topicref href="c-food-suggestion.dita"/>
+ <topicref href="c-room-rules.dita"/>
+ <topicref href="t-room-rearrange.dita"/>
+ <topicref href="t-projector.dita"/>
+ <topicref href="t-internet.dita">
+  <topicref href="t-two-factor.dita"/>
+ </topicref>
+ <topicref href="c-computer-programs.dita">
+  <topicref href="t-computer.dita"/>
+  <topicref href="t-adobe-programs.dita"/>
+ </topicref>
+ <topicref href="t-cleaning.dita"/>
+ <topicref href="c-works-cited.dita"/>
+</map>

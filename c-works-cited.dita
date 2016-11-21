@@ -1,9 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_dk5_y4c_1y">
- <title></title>
- <shortdesc></shortdesc>
+ <title>Works Cited</title>
+ <shortdesc>Below you'll find reference links for each of the pictures used on this site.</shortdesc>
  <conbody>
-  <p></p>
+<ul>
+    <li>Shanks Hall<xref
+     href="https://www.vt.edu/content/vt_edu/en/about/buildings/shanks-hall/jcr:content/content/adaptiveimage_1455662805469.img.full.high.jpg/1456233516219.jpg"
+     scope="external"/></li>
+   <li>Mac Desktop <xref
+     href="http://orig07.deviantart.net/8564/f/2008/037/a/2/actual_mac_desktop_by_kempokidd.png"
+     format="png" scope="external"/></li>
+   <li>Projector <xref
+     href="http://www.digitalavmagazine.com/wp-content/uploads/2015/01/Epson-536wi-2.jpg"
+     format="jpg" scope="external"/></li>
+   <li>Remote<xref
+     href="http://i.ebayimg.com/00/s/Mzk5WDQ5OQ==/z/BLYAAOxylpNTVjoz/$_35.JPG?set_id=2"
+     format="html" scope="external"/></li>
+   <li>Virginia Tech Parking Map <xref
+     href="http://www.mappery.com/maps/Viginia-Tech-Parking-Map.jpg" format="jpg" scope="external"
+    /></li>
+   <li>Turner Place at Lavery Hall <xref
+     href="https://s-media-cache-ak0.pinimg.com/736x/95/7a/e8/957ae82eff9e8fa335fad7666cef329b.jpg"
+     format="jpg" scope="external"/></li>
+   <li>Adobe Creative Cloud <xref
+     href="http://software.sites.unc.edu/files/2016/08/adobe-creative-cloud-large.png" format="png"
+     scope="external"/></li>
+   <li>Computer Lab <xref
+     href="http://its.ucsc.edu/computer-labs/descriptions/pictures/crown.jpg?t=0" format="jpg"
+     scope="external"/></li>
+   </ul>
+  
  </conbody>
 </concept>
