@@ -1,5 +1,6 @@
 
 // Auto generated index for searching.
+w["png"]="6*1";
 w["pops"]="14*0";
 w["power"]="9*0,12*0";
 w["prefer"]="13*26";
@@ -11,8 +12,7 @@ w["prices"]="4*56";
 w["pricing"]="4*0";
 w["priority"]="14*26";
 w["private"]="12*0";
-w["proc"]="14*0";
-w["process"]="8*0";
+w["process"]="8*0,14*0";
 w["product"]="12*0";
 w["productive"]="2*26,3*26";
 w["profile"]="10*26";
@@ -126,7 +126,7 @@ w["sushi"]="1*0";
 w["swivel"]="2*0,3*0";
 w["system"]="7*0,14*1";
 w["tab"]="9*0,10*26,12*0";
-w["tabl"]="4*0";
+w["table"]="4*0";
 w["tables"]="13*0";
 w["take"]="5*0,8*1,14*0";
 w["taken"]="4*26";
@@ -145,8 +145,7 @@ w["top"]="9*26";
 w["torgerson"]="11*0";
 w["tough"]="3*26";
 w["towards"]="1*0,11*1";
-w["tras"]="5*0";
-w["trash"]="8*3";
+w["trash"]="5*0,8*3";
 w["trouble"]="14*5";
 w["turn"]="5*0,8*0,11*1,12*1";
 w["turned"]="8*0,12*0";

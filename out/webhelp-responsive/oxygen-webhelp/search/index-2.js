@@ -1,6 +1,5 @@
 
 // Auto generated index for searching.
-w["example"]="12*0";
 w["excellent"]="7*26";
 w["exit"]="5*0";
 w["extra"]="7*0";
@@ -183,6 +182,7 @@ w["non-negotiable"]="4*26";
 w["notification"]="14*0";
 w["now"]="8*0,13*0";
 w["number"]="10*5,11*0,13*0,14*8";
+w["ny"]="13*5";
 w["off"]="5*0,8*1,11*0,12*1,13*0";
 w["offer"]="2*0,3*0,10*26";
 w["once"]="14*1";
@@ -235,5 +235,4 @@ w["places"]="11*0";
 w["platinum"]="4*9";
 w["plug"]="13*0";
 w["plugged"]="8*0";
-w["png"]="6*1";
 
