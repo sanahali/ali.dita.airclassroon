@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-   <appContext helpID="c-introduction-professional.dita"
-               path="c-introduction-professional.html"/>
+   <appContext helpID="c-introduction-student.dita" path="c-introduction-student.html"/>
    <appContext helpID="c-price.dita" path="c-price.html"/>
    <appContext helpID="t-parking.dita" path="t-parking.html"/>
    <appContext helpID="c-food-suggestion.dita" path="c-food-suggestion.html"/>
@@ -10,8 +9,8 @@
    <appContext helpID="t-projector" path="t-projector.html"/>
    <appContext helpID="t-internet.dita" path="t-internet.html"/>
    <appContext helpID="t-two-factor.dita" path="t-two-factor.html"/>
-   <appContext helpID="c-computer-programs.dita" path="c-computer-programs.html"/>
    <appContext helpID="t-computer.dita" path="t-computer.html"/>
+   <appContext helpID="c-computer-programs.dita" path="c-computer-programs.html"/>
    <appContext helpID="adobe-programs.dita" path="t-adobe-programs.html"/>
    <appContext helpID="t-cleaning.dita" path="t-cleaning.html"/>
    <appContext helpID="concept_dk5_y4c_1y" path="c-works-cited.html"/>

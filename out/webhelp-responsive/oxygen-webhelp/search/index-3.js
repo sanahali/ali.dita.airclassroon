@@ -1,5 +1,6 @@
 
 // Auto generated index for searching.
+w["plugged"]="8*0";
 w["png"]="6*1";
 w["pops"]="14*0";
 w["power"]="9*0,12*0";

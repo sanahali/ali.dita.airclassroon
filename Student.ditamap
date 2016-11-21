@@ -12,9 +12,10 @@
  <topicref href="t-internet.dita">
   <topicref href="t-two-factor.dita"/>
  </topicref>
- <topicref href="c-computer-programs.dita">
-  <topicref href="t-computer.dita"/>
-  <topicref href="t-adobe-programs.dita"/>
+ <topicref href="t-computer.dita">
+  <topicref href="c-computer-programs.dita">
+   <topicref href="t-adobe-programs.dita"/>
+  </topicref>
  </topicref>
  <topicref href="t-cleaning.dita"/>
  <topicref href="c-works-cited.dita"/>

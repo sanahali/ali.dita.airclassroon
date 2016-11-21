@@ -1,5 +1,8 @@
 
 // Auto generated index for searching.
+w["every"]="4*26";
+w["everything"]="2*26,3*26";
+w["example"]="12*0";
 w["excellent"]="7*26";
 w["exit"]="5*0";
 w["extra"]="7*0";
@@ -77,7 +80,7 @@ w["hours"]="12*0";
 w["how"]="3*0,7*57,8*30,9*31,10*56,12*31,13*30,14*30";
 w["http"]="6*5";
 w["http://orig07.deviantart.net/8564/f/2008/037/a/2/actual_mac_desktop_by_kempokidd.png"]="6*0";
-w["http://software.sites.unc.edu/files/2016/08/adobe-creative-cloud-large.png"]="6*0";
+w["http://software.sites.unc.edu/files/2016/08/adobe-cre"]="6*0";
 w["http://www.digitalavmagazine.com/wp-content/uploads/2015/01/epson-536wi-2.jpg"]="6*0";
 w["http://www.mappery.com/maps/viginia-tech-parking-map.jpg"]="6*0";
 w["https"]="6*1";
@@ -182,7 +185,6 @@ w["non-negotiable"]="4*26";
 w["notification"]="14*0";
 w["now"]="8*0,13*0";
 w["number"]="10*5,11*0,13*0,14*8";
-w["ny"]="13*5";
 w["off"]="5*0,8*1,11*0,12*1,13*0";
 w["offer"]="2*0,3*0,10*26";
 w["once"]="14*1";
@@ -234,5 +236,4 @@ w["place"]="1*0,6*0,13*2";
 w["places"]="11*0";
 w["platinum"]="4*9";
 w["plug"]="13*0";
-w["plugged"]="8*0";
 

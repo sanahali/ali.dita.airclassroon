@@ -1,6 +1,6 @@
 fil = new Array();
 fil["0"]= "c-computer-programs.html@@@Adobe Software on Mac Desktops@@@The Mac Desktops have several up-to-date Adobe Creative Cloud Software orograms installed for your convenience. You can login to the Creative Cloud using the same login username and password that you did to get into the computer...";
-fil["1"]= "c-food-suggestion.html@@@Where to eat near Shanks Hall?@@@If you would like to cater for your event in Shanks or grab a bite to eat during a break, there is no shortage of great restuarants nearby...";
+fil["1"]= "c-food-suggestion.html@@@Where to eat near Shanks Hall@@@If you would like to cater for your event in Shanks or grab a bite to eat during a break, there is no shortage of great restuarants nearby...";
 fil["2"]= "c-introduction-professional.html@@@Welcome to Shanks 360@@@In this room you&apos;ll find everything you need to conduct a productive and creative workshop or conference...";
 fil["3"]= "c-introduction-student.html@@@Welcome to Shanks 360!@@@In this room you&apos;ll find everything you need to conduct a productive and creative workshop, lecture, or conference. Navigating a college campus for the first time can be tough, but we&apos;re here to help!...";
 fil["4"]= "c-price.html@@@AirClassroom Prices for Shanks 360@@@We strive to give you the fairest price for our space. Our prices are non-negotiable, but we have taken every measure to make sure that they are the fairest deal you&apos;ll get...";
