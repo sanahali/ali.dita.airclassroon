@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="intro">
+<concept id="c-introduction-student">
  <title>Welcome to Shanks 360!</title>
- <shortdesc>In this room you'll find everything you need to conduct a productive and creative workshop, lecture, or conference. </shortdesc>
+ <shortdesc>In this room you'll find everything you need to conduct a productive and creative workshop, lecture, or conference. Navigating a college campus for the first time can be tough, but we're here to help! </shortdesc>
  <conbody>
-  <p>At Virginia Tech, we always offer our guests the best quality and newest technology that we have. Below you will find a list of all the amenities available for you to use in this classroom.  </p>
+  <p>At Virginia Tech, we always offer our guests the best quality and newest technology that we
+   have. Below you will find a list of all the amenities available for you to use in this classroom. </p>
   <ul>
    <li>24 Mac Desktop Computers</li>
    <li>24 Swivel chairs</li>
@@ -13,7 +14,16 @@
    <li>20 outlets (15 in the floor and 5 on the wall)</li>
    <li>Adobe Creative Cloud installed on the lab computers</li>
   </ul>
-  
-  <p>In this guide you'll find guides for how to use the individual technology, as well as more information about the Virginia Tech campus that will assist you in finding Shanks Hall, figuring out where to park, and where you can eat in the area.</p>
+  <p/>
+  <p>Click through the links and you'll find more in depth information about the room and your
+   lease. You'll also find instructions for how to use the technology in the room as well as more
+   information about the Virginia Tech campus that will assist you in finding Shanks Hall, figuring
+   out where to park, and where you can eat in the area.</p>
+  <p>
+   <fig id="Shanks">
+    <title>Shanks Hall</title>
+    <image href="i-shanks.jpg" id="i-shanks"/>
+   </fig>
+  </p>
  </conbody>
 </concept>
