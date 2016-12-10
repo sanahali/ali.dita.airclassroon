@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
+<topic id="lw-guest">
+  <title>How to Use Virginia Tech's WiFi as a Guest</title>
+  <shortdesc>Are you trying to use the WiFi, but are having difficulties connecting? Watch our video or read our directions to surf the web in no time!</shortdesc>
+  <body>
+    <section>
+      <title>Video</title>
+      <video><controls/><source value="https://www.youtube.com/embed/RcxBfdyF7YY?html5=1" />
+      </video>
+    <ol>
+      <li><p><b>Go</b> to your Network Settings and select the Virginia Tech wireless network.open your preferred web browser. The Welcome to Virginia Tech landing page should open automatically in your browser.</p></li>
+      <li><p><b>Select</b> the Guest option.</p></li>
+      <li><p><b>Follow</b> the prompts and put in the required information.</p></li>
+      <li><p><b>Enter</b> the SMS text message code you receive.</p></li>
+      <li><p><b>Check</b> to ensure that the WiFi is working.</p></li>
+    </ol>
+    </section>
+  </body>
+</topic>
