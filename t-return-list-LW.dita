@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
+<topic id="return">
+  <title>Rental Return Checklist</title>
+ <shortdesc>Below you'll find a quick checklist to ensure that you aren't missing anything that will cause a late fee on your rental upon return.</shortdesc>
+  
+  <body>
+    <ol id="return-list">
+      <li>
+        <p>Charge the product to 100%.</p>
+      </li>
+      <li>
+        <p>Make sure all chargers <i>and</i> the rented product are brought back in the Virginia
+          Tech case that they came in.</p>
+      </li>
+      <li> <p> Bring a credit card or cash to pay your rental fee if you have not already paid online. </p>
+      </li>
+    </ol>
+    <p><b>If any of these steps are incomplete, you will be charged a $25 late fee.</b></p>
+  </body>
+</topic>

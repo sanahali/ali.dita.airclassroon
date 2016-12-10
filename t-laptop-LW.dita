@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
+<topic id="t-laptop">
+  <title>How to use the MacBook Air Rentals</title>
+  <body>
+    <p>In order to login to the MacBook Air rental you'll need to refer to your confirmation email
+      from AirClassroom; the <i>6 digit login username and 8 digit password</i> will be sent to you
+      there.</p>
+    <ol id="l-laptop">
+      <li>
+        <p>Login to the MacBook Air with your guest login username and password.</p>
+      </li>
+      <li>
+        <p>Open up your preferred internet browser and go to www.airclassroomVT.com</p>
+      </li>
+      <li>
+        <p>Enter your same login username and password that you used to get into the MacBook Air to get into the website.</p>
+      </li>
+      <li>
+        <p>Go to the 'save files' tab, this will automatically save any files that you create on the computer or that you bookmark on your browser to your Airclassroom profile.</p>
+      </li>
+    </ol>
+    <fig>
+      <title>MacBook Air</title>
+      <image href="i-macbook-air.jpg"/>
+    </fig>
+  </body>
+  </topic>

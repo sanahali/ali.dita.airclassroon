@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
+<topic id="t-ipad">
+  <title>How to use the iPad Pro Rentals</title>
+  <body>
+    <p>Using the iPad Pro is a simple process once you know how to turn the product on and off, and how to find the application you want.</p>
+    <ol id="t-ipad">
+      <li>
+        <p>To turn the iPad Pro on, hold down the button on the right side of the device. Continue
+          holding down this button until a white Apple appears on the screen. </p>
+      </li>
+      <li>
+        <p>Once you have the iPad on, press the Home button on the screen of the device. </p>
+      </li>
+      <li>
+        <p>On the display you will see a screen that reads "Slide to open". Slide your finger on the
+          screen. </p>
+      </li>
+      <li>
+        <p>Once you are on the Home screen, slide your finger down from the top of the screen down
+          towards the Home button. This will reveal the Search bar.</p>
+      </li>
+      <li>
+        <p>Type your desired Application into the Search bar, and click on the icon when it appears.
+        </p>
+      </li>
+    </ol>
+    <p/>
+    <fig>
+      <title>iPad Pro</title>
+      <image href="i-ipad.jpg"/>
+    </fig>
+  </body>
+</topic>
