@@ -2,21 +2,30 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>Professional's AirClassroom Guide to Shanks 360 </title>
- <topicref href="c-introduction-professional.dita"/>
- <topicref href="c-price.dita"/>
- <topicref href="t-parking.dita"/>
- <topicref href="c-food-suggestion.dita"/>
- <topicref href="c-room-rules.dita"/>
- <topicref href="t-room-rearrange.dita"/>
- <topicref href="t-projector.dita"/>
- <topicref href="t-internet.dita">
-  <topicref href="t-two-factor.dita"/>
- </topicref>
- <topicref href="t-computer.dita">
-  <topicref href="c-computer-programs.dita">
-   <topicref href="t-adobe-programs.dita"/>
+ <topichead navtitle="Shanks 360 Room Information">
+  <topicref href="c-introduction-professional.dita"/>
+  <topicref href="t-cleaning.dita"/>
+  <topicref href="t-room-rearrange.dita"/>
+  <topicref href="c-room-rules.dita"/>
+  <topicref href="c-price.dita"/>
+ </topichead>
+ <topichead navtitle="VT Campus Information">
+  <topicref href="c-food-suggestion.dita"/>
+  <topicref href="t-parking.dita"/>
+ </topichead>
+ <topichead navtitle="Connecting to the Internet">
+  <topicref href="lw-guest.dita"/>
+ </topichead>
+ <topichead navtitle="Rentals How-to Guides">
+  <topicref href="md-camcorder.md" format="markdown"/>
+  <topicref href="t-laptop-LW.dita"/>
+  <topicref href="t-ipad-lw.dita">
+   <topicref href="m-smart-keyboard.md" format="markdown"/>
   </topicref>
- </topicref>
- <topicref href="t-cleaning.dita"/>
- <topicref href="c-works-cited.dita"/>
+ </topichead>
+ <topichead navtitle="Rentals Information">
+  <topicref href="c-rentals.md" format="markdown"/>
+  <topicref href="t-pricing-mdita.md" format="markdown"/>
+  <topicref href="t-return-list-LW.dita"/>
+ </topichead>
 </map>

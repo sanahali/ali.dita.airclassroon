@@ -12,3 +12,4 @@ Extend the experience of AirClassroom by renting out our top of the line Apple p
 
 - MacBook Air
 - iPad Pro
+- Camcorder

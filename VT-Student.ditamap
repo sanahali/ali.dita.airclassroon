@@ -2,11 +2,22 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>Virginia Tech Student's AirClassroom Guide to Shanks 360 </title>
- <topicref href="c-introduction-professional.dita"/>
- <topicref href="c-price.dita"/>
- <topicref href="c-room-rules.dita"/>
- <topicref href="t-room-rearrange.dita"/>
- <topicref href="t-projector.dita"/>
- <topicref href="t-cleaning.dita"/>
- <topicref href="c-works-cited.dita"/>
+ <topichead navtitle="Shanks Room 360 Information">
+  <topicref href="c-introduction-professional.dita"/>
+  <topicref href="c-room-rules.dita"/>
+  <topicref href="c-price.dita"/>
+  <topicref href="t-cleaning.dita"/>
+ </topichead>
+ <topichead navtitle="Rentals Information">
+  <topicref href="c-rentals.md" format="markdown"/>
+  <topicref href="t-pricing-mdita.md" format="markdown"/>
+  <topicref href="t-return-list-LW.dita"/>
+ </topichead>
+ <topichead navtitle="Rentals How-to Guides">
+  <topicref href="md-camcorder.md" format="markdown"/>
+  <topicref href="t-ipad-lw.dita">
+   <topicref href="m-smart-keyboard.md" format="markdown"/>
+  </topicref>
+  <topicref href="t-laptop-LW.dita"/>
+ </topichead>
 </map>
