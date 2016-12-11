@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Welcome to AirClassroom!</title>
+ <topichead navtitle="Shanks Room 360 Information">
+  <topicref href="c-price.dita"/>
+  <topicref href="c-room-rules.dita"/>
+ </topichead>
+ <topichead navtitle="Connecting to the Internet">
+  <topicref href="lw-guest.dita"/>
+ </topichead>
+ <topichead navtitle="Rental Information">
+  <topicref href="c-rentals.md" format="markdown"/>
+  <topicref href="t-return-list-LW.dita"/>
+ </topichead>
+ <topichead navtitle="Rental Products How-To Guides">
+  <topicref href="t-laptop-xdita.dita"/>
+  <topicref href="md-camcorder.md" format="markdown"/>
+  <topicref href="t-ipad-lw.dita">
+   <topicref href="m-smart-keyboard.md" format="markdown"/>
+  </topicref>
+ </topichead>
+</map>

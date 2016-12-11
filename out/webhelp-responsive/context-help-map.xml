@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-   <appContext helpID="c-introduction-professional.dita"
-               path="c-introduction-professional.html"/>
    <appContext helpID="c-price.dita" path="c-price.html"/>
-   <appContext helpID="t-parking.dita" path="t-parking.html"/>
-   <appContext helpID="c-food-suggestion.dita" path="c-food-suggestion.html"/>
    <appContext helpID="c-room-rules.dita" path="c-room-rules.html"/>
-   <appContext helpID="t-room-rearrange" path="t-room-rearrange.html"/>
-   <appContext helpID="t-projector" path="t-projector.html"/>
-   <appContext helpID="t-internet.dita" path="t-internet.html"/>
-   <appContext helpID="t-two-factor.dita" path="t-two-factor.html"/>
-   <appContext helpID="t-computer.dita" path="t-computer.html"/>
-   <appContext helpID="c-computer-programs.dita" path="c-computer-programs.html"/>
-   <appContext helpID="adobe-programs.dita" path="t-adobe-programs.html"/>
-   <appContext helpID="t-cleaning.dita" path="t-cleaning.html"/>
-   <appContext helpID="concept_dk5_y4c_1y" path="c-works-cited.html"/>
+   <appContext helpID="lw-guest" path="lw-guest.html"/>
+   <appContext helpID="welcome_to_airclassroom_rental_services" path="c-rentals.html"/>
+   <appContext helpID="return" path="t-return-list-LW.html"/>
+   <appContext helpID="t-laptop" path="t-laptop-xdita.html"/>
+   <appContext helpID="how_to_capture_video" path="md-camcorder.html"/>
+   <appContext helpID="t-ipad" path="t-ipad-lw.html"/>
+   <appContext helpID="how_to_use_smart_keyboard_with_ipad_pro"
+               path="m-smart-keyboard.html"/>
 </map>
